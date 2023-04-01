@@ -1,0 +1,14 @@
+emp_id      emp_name     emp_email              emp_password  emp_gender      noOfDependants Additions  ITex   CPP    EI    GrossSalary
+----------- ------------ ---------------------- ------------- --------------- -------------- ---------- ------ ------ ----- -----------
+2           Karry        KKhall@yahoo.com       NULL          Male            4              325.00     0.21   0.07   0.05  81000.00
+1148        Sujawal      sujawalfff@yahoo.com   NULL          Female          1              650.00     0.25   0.04   0.03  77000.00
+2200        Allana       Allana@gmail.com       NULL          Female          3              280.00     0.28   0.05   0.04  120000.00
+2204        John         jadde@yahoo.com        NULL          Male            2              180.00     0.28   0.24   0.04  55000.00
+2205        Sally        salley@yahoo.com       NULL          Female          3              250.00     0.28   0.04   0.05  58000.00
+2207        Jane         jane@yahoo.com         NULL          Male            4              150.00     0.05   0.04   0.04  79000.00
+2209        Jiggar       jghdd25@yahoo.com      NULL          Male            3              160.00     0.25   0.05   0.04  78000.00
+2212        Nattaly Hill natilli@yahoo.com      NULL          Female          3              180.00     0.28   0.05   0.03  78500.00
+
+(8 rows affected)
+
+Completion time: 2023-03-28T15:47:17.6523547-04:00
