@@ -16,3 +16,5 @@
 | [Normalization - Part 1](./pages/12.md)                       |                                        |
 | [Normalization - Part 2](./pages/13.md)                       |                                        |
 | [Concurrency Control](./pages/14.md)                          |                                        |
+
+> [Calculate net salary full example.](examples/net-salary.sql)
